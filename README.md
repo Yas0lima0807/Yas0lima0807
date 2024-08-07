@@ -2,4 +2,4 @@
 
 **my name is Yasmin Lima**
 
-- 📚 I’m currently studying at Alura
+- 📚 I’m currently studying at [Alura](http//alura.com.br)
